@@ -1,0 +1,16 @@
+{
+  "resources/images/laravel.png": {
+    "file": "assets/laravel-1937c3ce.png",
+    "src": "resources/images/laravel.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-cee1c8b9.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-27abf3b7.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
